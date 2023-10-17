@@ -26,7 +26,7 @@ class MemoryTestWindow:
         self.__canvas.pack()
 
 
-
+        hallo
 
 
 
